@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Satyam Jha! 👋</h1>
 
-<!--
-**satyamjha1011/satyamjha1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>🚀 Full Stack Developer | Django | Java | Python | AWS | SQL</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🔥 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,django,aws,html,css,js,mysql,mongodb,git,docker,spring,tensorflow,pytorch,postman,arduino" alt="Tech Stack"/>
+</p>
+
+📍 **Currently working**: Backend Developer Intern @ TechYelp Pvt Ltd, Bangalore
+
+---
+
+## 🚀 Ongoing & Featured Projects
+
+📌 **🔭 [TECHUZR](https://www.techuzr.com/)** - Innovating with technology solutions.
+
+📌 **🤖 [Interview Chatbot](https://github.com/yourrepo)** - AI-powered chatbot for real-time interview Q&A.
+
+📌 **📍 [Indoor Navigation System](https://github.com/yourrepo)** - Precise indoor navigation using GeoJSON & Django.
+
+📌 **📊 [Agency - Digital Marketing Dashboard](https://github.com/yourrepo)** - Ad performance tracking for Google, Meta, LinkedIn.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjha1011&theme=radical" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjha1011&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### 📬 Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyamjha1011"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/satyamjha1011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+
+
+
+💡 *“Code, Learn, Build, and Repeat!”* 🚀
