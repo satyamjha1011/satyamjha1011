@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,django,aws,html,css,js,mysql,mongodb,git,docker,spring,tensorflow,pytorch,postman,arduino" alt="Tech Stack"/>
 </p>
 
-📍 **Currently working**: Backend Developer Intern @ TechYelp Pvt Ltd, Bangalore
+📍 **Currently working**: Backend Developer- Python @ Virves Software Solutions Pvt. Ltd. Bangalore
 
 ---
 
