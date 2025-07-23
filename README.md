@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Full Stack Developer | Django | Java | Python | AWS | SQL</strong>
+  <strong>🚀 Full Stack Developer | Django | Flask | FastAPI | Python | AWS | SQL</strong>
 </p>
 
 ---
@@ -22,6 +22,10 @@
 ---
 
 ## 🚀 Ongoing & Featured Projects
+
+📌 **🔭 [KL CREATION](https://github.com/)** -  E-commerce solutions.
+
+📌 **🔭 [Gene-Q](https://www.gene-q.com/)** - PathLab solutions.
 
 📌 **🔭 [TECHUZR](https://www.techuzr.com/)** - Innovating with technology solutions.
 
