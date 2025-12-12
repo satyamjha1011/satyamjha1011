@@ -63,89 +63,105 @@
 
 💡 *“Code, Learn, Build, and Repeat!”* 🚀 -->
 
-<!-- Banner Title -->
-<h1 align="center">
-  <span style="font-size: 40px;">🚀 Satyam Jha</span>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python);Full+Stack+Developer;Django+%7C+FastAPI+%7C+Flask;AWS+%7C+SQL+%7C+System+Design;Clean+Code+Enthusiast+%F0%9F%9A%80" alt="Typing Animation" />
-</h1>
+<!-- Waving Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0F53,100:07D9FF&height=220&text=Satyam%20Jha&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=600&pause=1200&color=00E8FF&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python);Full+Stack+Developer;Django+%7C+FastAPI+%7C+Flask;AWS+Cloud+Engineer;Automation+%26+System+Design;Creator+%7C+Innovator" />
+</p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamjha1011&label=Profile%20Views&color=0E8EEB&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=satyamjha1011&label=Profile%20Visits&color=00E8FF&style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ About Me  
-🔥 Backend Developer (Python) @ **Virves Software Solutions Pvt. Ltd. Bangalore**  
-🧠 I design scalable, secure, and high-performance backend systems  
-🔒 Expertise: APIs · RBAC · JWT · Redis · Background Tasks · Automation  
-☁️ Cloud focus: AWS (EC2, S3, Lambda, API Gateway)  
-🚀 Exploring: Microservices, System Design, ML-powered Backends  
-⚙️ Love writing clean, optimized & production-ready code  
+# ⚡ **About Me**
+I’m a **Backend Developer (Python)** specializing in creating **scalable, secure, and production-grade systems** with:
+- 🔥 Django, FastAPI, Flask  
+- ⚙️ REST APIs, RBAC, OAuth2, JWT, Redis  
+- ☁️ AWS (EC2, Lambda, S3, RDS, CloudFront)  
+- 🧠 System Design, Automation, High Performance Backend  
+- 🧩 Microservices, CI/CD, Nginx, Docker  
+
+💼 **Backend Developer @ Virves Software Solutions Pvt. Ltd, Bangalore**  
+💡 Passionate about automation, cloud-native development & building products that scale.
 
 ---
 
-## 🛠️ Tech Stack (Dark Mode Icons)
-
+# 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,aws,git,docker,linux,html,css,js,react,mysql,mongodb,redis,postman,tensorflow,pytorch,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,aws,git,docker,linux,react,html,css,js,mysql,mongodb,redis,postman,tensorflow,pytorch,arduino&theme=dark" />
 </p>
 
 ---
 
-# 🌟 Featured Live Projects  
-> 💡 *Your top production-grade applications (dark theme cards)*  
+# ✨ **🔥 Featured Live Projects (Premium Cards)**
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
-  
+<td width="50%" align="center">
+
 ### 🏡 **TSP – Top Selling Property**  
-Real Estate | Property Management  
-🔗 https://www.topsellingproperty.com/
+<div style="background: #0D1117; padding: 20px; border-radius: 12px; border: 1px solid #1F6FEB;">
+End-to-end Real Estate Platform  
+🚀 Live: **https://www.topsellingproperty.com/**
+</div>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🛠️ **Townyz – Service Provider Platform**  
-Book carpenters, plumbers, electricians  
-🔗 https://www.townyz.com/
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🛒 **KL Creation – E-Commerce**  
-Clothing marketplace  
-🔗 https://klcreation.com/
-
-</td>
-<td align="center" width="50%">
-
-### 🛍️ **Bituzr – E-Commerce**  
-Latest lifestyle products  
-🔗 https://www.bituzr.com/
+### 🛠️ **Townyz – Service Provider Platform**
+<div style="background: #0D1117; padding: 20px; border-radius: 12px; border: 1px solid #1F6FEB;">
+Book electric, plumbing & home services  
+🚀 Live: **https://www.townyz.com/**
+</div>
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🧬 **Gene-Q – PathLab Platform**  
-Health diagnostics & test management  
-🔗 https://www.gene-q.com/
+### 🛒 **KL Creation – E-Commerce**
+<div style="background: #0D1117; padding: 20px; border-radius: 12px; border: 1px solid #1F6FEB;">
+Clothing & fashion store  
+🚀 Live: **https://klcreation.com/**
+</div>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🎯 **Agency Ads Dashboard**  
+### 🛍️ **Bituzr – E-Commerce**
+<div style="background: #0D1117; padding: 20px; border-radius: 12px; border: 1px solid #1F6FEB;">
+Modern e-commerce platform  
+🚀 Live: **https://www.bituzr.com/**
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🧬 **Gene-Q – PathLab Platform**
+<div style="background: #0D1117; padding: 20px; border-radius: 12px; border: 1px solid #1F6FEB;">
+Diagnostics · Testing · Healthcare  
+🚀 Live: **https://www.gene-q.com/**
+</div>
+
+</td>
+<td width="50%" align="center">
+
+### 📊 **Agency Ads Dashboard**
+<div style="background: #0D1117; padding: 20px; border-radius: 12px; border: 1px solid #1F6FEB;">
 Google · Meta · LinkedIn Ads Analytics  
-🔗 https://github.com/yourrepo
+🔗 Repo: https://github.com/yourrepo
+</div>
 
 </td>
 </tr>
@@ -153,41 +169,36 @@ Google · Meta · LinkedIn Ads Analytics
 
 ---
 
-# 🚀 Other Major Projects  
-
-📌 **🤖 AI Interview Chatbot (NLP + Django)**  
-Real-time Q&A · Context understanding  
-🔗 https://github.com/yourrepo  
-
-📌 **📍 Indoor Navigation System**  
-GeoJSON + Django + Real-time tracking  
-🔗 https://github.com/yourrepo  
-
-📌 **🔐 Advanced Auth System**  
-OTP · JWT · RBAC · Redis Sessions  
-🔗 https://github.com/yourrepo  
-
-📌 **🛒 Microservice E-Commerce Backend (FastAPI)**  
-Caching · Payments · Background Workers  
-🔗 https://github.com/yourrepo  
+# 🔥 **More Projects**
+- 🤖 AI Interview Chatbot (NLP + Django)  
+- 📍 Indoor Navigation System (GeoJSON + Live Tracking)  
+- 🔐 Secure Auth System (OTP, JWT, Redis, RBAC)  
+- 🛒 FastAPI Microservice E-Commerce Backend  
+- 📡 Automation Pipelines (Scrapers, Task Runners, Workers)  
 
 ---
 
-# 📊 GitHub Analytics  
+# 📈 **GitHub Activity (Premium Style)**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=satyamjha1011&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=satyamjha1011&theme=react&hide_border=true&ring=00E8FF&currStreakLabel=00E8FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=react&hide_border=true&icon_color=00E8FF&title_color=00E8FF" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjha1011&layout=compact&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjha1011&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
-# 📡 Connect With Me
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+---
+
+# 🌐 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-jha-828022183">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -200,8 +211,8 @@ Caching · Payments · Background Workers
   </a>
 </p>
 
----
-
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07D9FF,100:0E0F53&height=160&section=footer" />
 </p>
+
