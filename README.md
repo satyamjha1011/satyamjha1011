@@ -63,96 +63,145 @@
 
 💡 *“Code, Learn, Build, and Repeat!”* 🚀 -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff4b4b;">Satyam Jha</span></h1>
+<!-- Banner Title -->
+<h1 align="center">
+  <span style="font-size: 40px;">🚀 Satyam Jha</span>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python);Full+Stack+Developer;Django+%7C+FastAPI+%7C+Flask;AWS+%7C+SQL+%7C+System+Design;Clean+Code+Enthusiast+%F0%9F%9A%80" alt="Typing Animation" />
+</h1>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
-</p>
-
-<p align="center">
-  <strong>🚀 Full Stack Developer | Python | Django | FastAPI | Flask | AWS | SQL | DevOps Enthusiast</strong>
-</p>
-
----
-
-## 🧑‍💻 About Me  
-- 🔥 Backend Developer (Python) @ **Virves Software Solutions Pvt. Ltd., Bangalore**  
-- 🏗️ Building scalable, secure & production-ready systems  
-- 🧠 Passionate about automation, AI, and cloud-native development  
-- 💬 Ask me about: APIs, Backend Architecture, CI/CD, AI Integrations  
-- 🌱 Currently exploring: Microservices, System Design, ML-driven backend systems  
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,aws,docker,git,html,css,js,react,mysql,mongodb,redis,postman,arduino,tensorflow,pytorch" />
+  <img src="https://komarev.com/ghpvc/?username=satyamjha1011&label=Profile%20Views&color=0E8EEB&style=flat" />
 </p>
 
 ---
 
-## 🚀 Featured & Live Projects
-
-### 🌟 Production-Level Applications  
-| Project | Domain | Link |
-|--------|--------|------|
-| **TSP – Top Selling Property** | Real Estate / Property Management | https://www.topsellingproperty.com/ |
-| **Townyz** | Service Provider / Booking Platform | https://www.townyz.com/ |
-| **KL Creation** | E-commerce | https://klcreation.com/ |
-| **Bituzr** | E-commerce | https://www.bituzr.com/ |
-| **KL Creation (Admin Panel)** | E-commerce Admin | *(Private Code)* |
-| **Gene-Q** | Pathlab / Healthcare | https://www.gene-q.com/ |
+## ⚡ About Me  
+🔥 Backend Developer (Python) @ **Virves Software Solutions Pvt. Ltd. Bangalore**  
+🧠 I design scalable, secure, and high-performance backend systems  
+🔒 Expertise: APIs · RBAC · JWT · Redis · Background Tasks · Automation  
+☁️ Cloud focus: AWS (EC2, S3, Lambda, API Gateway)  
+🚀 Exploring: Microservices, System Design, ML-powered Backends  
+⚙️ Love writing clean, optimized & production-ready code  
 
 ---
 
-### 💡 Other Major Projects
+## 🛠️ Tech Stack (Dark Mode Icons)
 
-📌 **🤖 AI Interview Chatbot**  
-_A conversational bot handling real-time Q&A with NLP & Django backend._  
-🔗 Repo: https://github.com/yourrepo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,aws,git,docker,linux,html,css,js,react,mysql,mongodb,redis,postman,tensorflow,pytorch,arduino&theme=dark" />
+</p>
+
+---
+
+# 🌟 Featured Live Projects  
+> 💡 *Your top production-grade applications (dark theme cards)*  
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+### 🏡 **TSP – Top Selling Property**  
+Real Estate | Property Management  
+🔗 https://www.topsellingproperty.com/
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ **Townyz – Service Provider Platform**  
+Book carpenters, plumbers, electricians  
+🔗 https://www.townyz.com/
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🛒 **KL Creation – E-Commerce**  
+Clothing marketplace  
+🔗 https://klcreation.com/
+
+</td>
+<td align="center" width="50%">
+
+### 🛍️ **Bituzr – E-Commerce**  
+Latest lifestyle products  
+🔗 https://www.bituzr.com/
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🧬 **Gene-Q – PathLab Platform**  
+Health diagnostics & test management  
+🔗 https://www.gene-q.com/
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 **Agency Ads Dashboard**  
+Google · Meta · LinkedIn Ads Analytics  
+🔗 https://github.com/yourrepo
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Other Major Projects  
+
+📌 **🤖 AI Interview Chatbot (NLP + Django)**  
+Real-time Q&A · Context understanding  
+🔗 https://github.com/yourrepo  
 
 📌 **📍 Indoor Navigation System**  
-_Building-level indoor navigation using GeoJSON + Django + device tracking._  
-🔗 Repo: https://github.com/yourrepo
+GeoJSON + Django + Real-time tracking  
+🔗 https://github.com/yourrepo  
 
-📌 **📊 Digital Marketing Analytics Dashboard**  
-_Tracks ad performance across Google, Meta & LinkedIn with charts and automation._  
-🔗 Repo: https://github.com/yourrepo
+📌 **🔐 Advanced Auth System**  
+OTP · JWT · RBAC · Redis Sessions  
+🔗 https://github.com/yourrepo  
 
-📌 **🔐 Secure Authentication System**  
-_OTP, JWT, RBAC-based multi-role backend built using Django REST + Redis._  
-🔗 Repo: https://github.com/yourrepo
-
-📌 **🛒 Mini-Commerce Backend (FastAPI)**  
-_Modern microservice-style backend with payments, caching & background tasks._  
-🔗 Repo: https://github.com/yourrepo
+📌 **🛒 Microservice E-Commerce Backend (FastAPI)**  
+Caching · Payments · Background Workers  
+🔗 https://github.com/yourrepo  
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjha1011&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=satyamjha1011&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjha1011&layout=compact&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjha1011&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📡 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyam-jha-828022183"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/satyamjha1011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/satyam-jha-828022183">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/satyamjha1011">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 <em>“Build. Break. Learn. Improve. Repeat.”</em> 🚀  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
