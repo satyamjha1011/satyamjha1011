@@ -190,13 +190,7 @@ Multi-role marketplace covering **19,585+ pincodes across 36 states**, with live
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=react&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=satyamjha1011&theme=react&hide_border=true&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF&background=0d1117"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjha1011&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00E8FF"/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=react&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ---
