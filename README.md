@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E8FF&height=220&section=header&text=Satyam%20Jha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Project%20Lead%20—%20R%26D%20|%20Backend%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=18"/>
+<img src="./banner.svg" alt="Satyam Jha" width="900"/>
 
 <a href="https://www.linkedin.com/in/satyamjha1011/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -186,11 +186,11 @@ Multi-role marketplace covering **19,585+ pincodes across 36 states**, with live
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=react&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117"/>
 
-<br/>
+<img src="https://img.shields.io/github/followers/satyamjha1011?label=Followers&style=for-the-badge&color=00E8FF&logo=github"/>
+<img src="https://img.shields.io/github/stars/satyamjha1011?label=Stars&style=for-the-badge&color=00E8FF&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/satyamjha1011/satyamjha1011?label=Last%20Active&style=for-the-badge&color=00E8FF&logo=github"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=satyamjha1011&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
 ---
