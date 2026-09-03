@@ -1,787 +1,238 @@
-# 👋 Hi, I'm Satyam Jha
+<div align="center">
 
-### Project Lead — R&D | Backend Engineering | AI/ML | Generative AI | System Design
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00E8FF&height=220&section=header&text=Satyam%20Jha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Project%20Lead%20—%20R%26D%20|%20Backend%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=18"/>
 
-I’m a backend-focused software engineer working primarily with **Python, Django, Django REST Framework, FastAPI, databases, cloud services, automation, and AI/ML systems**.
+<a href="https://www.linkedin.com/in/satyamjha1011/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/satyamjha1011">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:support@internlift.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I enjoy turning real business requirements into **secure, maintainable and production-oriented software** — from REST APIs and multi-role platforms to asynchronous workflows, computer-vision pipelines, LLM integrations, vector search, and agentic systems.
+<br/><br/>
 
-> **Engineering focus:** Backend Architecture • API Engineering • AI/ML Integration • System Design • Performance • Automation • Cloud
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E8FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Backend+Engineering+%C3%97+AI%2FML+%C3%97+System+Design;LLMs+%C7%9A+AI+Agents+%C7%9A+Computer+Vision+%C7%9A+Vector+Search;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+Redis+%C2%B7+Docker"/>
 
----
+</div>
 
-## 🧭 Career Journey
+<br/>
 
-### 🚀 Founder & Technical Lead — Digiweby
-**Oct 2019 – Jan 2022**
+<!-- ============================================================ -->
+## 👨‍💻 About Me
 
-Started and operated an MSME-registered proprietorship focused on digital services, web development, digital marketing, and data operations.
+<img align="right" width="290" src="https://raw.githubusercontent.com/octocat/octocat.github.io/main/assets/images/dev.png" alt="dev" />
 
-- Delivered **10+ WordPress web applications** across news, hospital-management and e-commerce use cases.
-- Worked with **20+ digital marketing clients**.
-- Managed data operations for **8 government hospitals**, including data collection, validation and dashboard/reporting workflows.
-- Handled overall technical and business operations while **leading the team**.
-- Gained early experience in client communication, delivery ownership, team coordination and solving real-world business problems.
+- 🔭 Currently **Project Lead — Research & Development** @ Virves Software Solutions
+- 🐍 Backend engineer specializing in **Python, Django, DRF, FastAPI**
+- 🤖 Building with **LLMs, AI Agents, Computer Vision, Embeddings & Vector Search**
+- 🏗️ Focused on **system design, scalable APIs, and multi-tenant architecture**
+- ⚡ Comfortable with **Redis, Celery, async pipelines, event-driven systems**
+- ☁️ Daily driver: **AWS · Docker · Nginx · Gunicorn**
+- 🔄 Automation nerd — **n8n, webhooks, AI-driven workflows**
+- 🎓 MCA — Oxford College of Engineering, Bengaluru · BA Economics — Purnea University
+- 📍 Based in **Bengaluru, India**
 
-### 🎓 MCA — Bengaluru
-**After Digiweby**
+**My path:** Founder (Digiweby) → Software Developer → Backend Engineer → AI/ML Engineer → R&D Project Lead
 
-Moved to Bengaluru for higher studies and completed an MCA before restarting my software-engineering career.
-
-### 💻 Software Developer — Technizz Infotech
-**Oct 2023 – Dec 2023**
-
-Built a lodge-management system during a software-development internship using PHP, MySQL, HTML, CSS, JavaScript, Bootstrap and jQuery.
-
-### 🧩 Software Engineer — TechYelp
-**Jan 2024 – May 2025**
-
-Worked on Django/Python backend systems, REST APIs, AWS S3 integrations, databases, geospatial functionality and production application features.
-
-### 🧠 Project Lead — R&D, Virves Software Solutions
-**May 2025 – Present**
-
-Progressed from Software Engineer to Project Lead — R&D, working across backend engineering, AI/ML, Generative AI, automation, system design, technical planning and delivery.
+<br clear="right"/>
 
 ---
 
-# 🧠 What I Build
+<!-- ============================================================ -->
+## 🧭 Career Timeline
 
-### Backend & APIs
-- Python
-- Django
-- Django REST Framework
-- FastAPI
-- Flask
-- REST API architecture
-- Authentication & authorization
-- JWT / OTP
-- RBAC
-- Multi-role systems
-- Multi-tenant architecture
-- Database design & optimization
-
-### AI / ML / Generative AI
-- LLM integrations
-- Prompt engineering
-- Context-augmented generation
-- AI agents
-- Multi-agent systems
-- Computer vision
-- CLIP embeddings
-- Vector search
-- FAISS
-- pgvector
-- YOLOv8
-- MobileSAM
-- BLIP / VLM workflows
-- OCR
-- TensorFlow / PyTorch
-
-### Distributed Systems & Automation
-- Redis
-- Celery
-- Background jobs
-- Redis Streams / Pub/Sub
-- n8n
-- Event-driven workflows
-- Webhooks
-- Async processing
-- Third-party API integrations
-
-### Cloud / DevOps
-- AWS S3
-- AWS EC2
-- AWS RDS
-- AWS Lambda
-- AWS API Gateway
-- Docker
-- Linux
-- Git / GitHub
-- Nginx
-- Gunicorn
-- Uvicorn
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- JSON / JSONField
-- Query optimization
-- Indexing
-- Data modelling
+<table>
+<tr><td width="130"><b>2019 – 2022</b></td><td>🚀 <b>Founder & Technical Lead, Digiweby</b> — 10+ WordPress builds, 20+ marketing clients, data ops for 8 govt. hospitals</td></tr>
+<tr><td><b>2022 – 2024</b></td><td>🎓 <b>MCA, Oxford College of Engineering</b> — specialized in full-stack dev, cloud, data engineering</td></tr>
+<tr><td><b>2023</b></td><td>💻 <b>Software Developer, Technizz Infotech</b> — full-stack lodge management system</td></tr>
+<tr><td><b>2024 – 2025</b></td><td>🧩 <b>Software Engineer, TechYelp</b> — Django/DRF backends, AWS S3, geospatial features</td></tr>
+<tr><td><b>2025 – Present</b></td><td>🧠 <b>Project Lead — R&D, Virves Software Solutions</b> — backend, AI/ML, GenAI, system architecture, mentoring</td></tr>
+</table>
 
 ---
 
-# 🏗️ Selected Engineering Projects
+<!-- ============================================================ -->
+## 🛠️ Tech Stack
 
-The projects below are grouped by the engineering capability they demonstrate rather than simply by chronology.
+<div align="center">
 
----
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,js,html,css&theme=dark"/>
 
-## 🤖 1. Autonomous Multi-Agent AI Trading & Risk Governance System
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/CLIP-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
 
-**Focus:** Agentic AI • Event-driven architecture • Quantitative analysis • Risk governance • Paper trading
+**Databases & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,nginx,linux,git&theme=dark"/>
 
-A research-oriented trading system designed around an important principle:
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 
-> **AI can reason about a trade, but deterministic risk logic controls whether the trade is allowed.**
-
-### Architecture
-
-```text
-Market Data
-    ↓
-Event Detection
-    ↓
-Deterministic Quantitative Analysis
-    ↓
-Specialist AI Agents
-    ├── Technical
-    ├── Structure
-    ├── Pattern
-    ├── Sentiment
-    └── News
-    ↓
-Bull vs Bear Debate
-    ↓
-Decision Agent
-    ↓
-Deterministic Risk Engine
-    ↓
-Paper Trading / Backtesting
-    ↓
-Portfolio + PnL + Analytics
-```
-
-### Key engineering work
-
-- Built an **event-driven market-analysis architecture** rather than invoking LLMs on every market tick.
-- Created deterministic analysis for indicators and market structure including RSI, MACD, VWAP, EMA, BOS, CHoCH, HH/HL/LH/LL and related signals.
-- Designed a **LangGraph multi-agent roster** with specialist analysts and adversarial Bull/Bear reasoning.
-- Implemented structured agent outputs using typed schemas.
-- Designed a **hard deterministic Risk Engine with veto authority** over probabilistic AI decisions.
-- Built a microstructure-aware paper execution engine including spread, slippage, fees, partial fills and MFE/MAE tracking.
-- Added walk-forward validation and performance metrics such as expectancy, profit factor, Sharpe, Sortino and maximum drawdown.
-- Used FastAPI for real-time services and Django/PostgreSQL for administration, portfolio management and persistent reporting.
-- Used Redis Streams/Pub/Sub, Celery, Docker, Telegram and n8n for event routing and automation.
-
-### Stack
-
-`Python` `FastAPI` `Django` `LangGraph` `Ollama` `OpenRouter` `PostgreSQL` `Redis` `Celery` `NumPy` `Pandas` `Docker` `WebSockets` `Telegram` `n8n`
-
-**Type:** R&D / Paper Trading  
-**Note:** This is a research and paper-trading system, not a claim of guaranteed trading profitability.
+</div>
 
 ---
 
-## 👁️ 2. Image AI — Multimodal Visual Search & Fabric Intelligence
+<!-- ============================================================ -->
+## ⭐ Flagship Projects
 
-**Focus:** Computer Vision • Embeddings • Vector Search • ML Pipelines • AI Backend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An end-to-end visual intelligence pipeline for textile/fashion product catalogs.
+### 🤖 AI Trading & Risk Governance
+**Agentic AI · Event-Driven · Risk Engineering**
 
-### ML Pipeline
+Multi-agent system where specialist LLM agents debate a trade (Bull vs Bear) — but a **deterministic risk engine holds final veto power**. AI reasons; code controls risk.
 
-```text
-Image
-  ↓
-Domain Routing
-  ↓
-OCR + Captioning
-  ↓
-YOLOv8 Object Detection
-  ↓
-MobileSAM Segmentation
-  ↓
-CLIP Embeddings
-  ↓
-Attribute / Taxonomy Classification
-  ↓
-Vector Retrieval
-  ↓
-Weighted Re-ranking
-```
+`Python` `FastAPI` `LangGraph` `Redis` `PostgreSQL`
 
-### Key engineering work
+</td>
+<td width="50%" valign="top">
 
-- Integrated **CLIP, YOLOv8, MobileSAM, BLIP and EasyOCR** into a unified analysis pipeline.
-- Generated **512-dimensional image embeddings** for visual retrieval.
-- Implemented **FAISS + PostgreSQL/pgvector** for vector search.
-- Built zero-shot CLIP classification for textile/fabric attributes.
-- Implemented multi-region image analysis using detection → segmentation → per-region embeddings.
-- Added image-hash deduplication to avoid repeated inference for identical uploads.
-- Designed asynchronous ML processing with Celery and configurable concurrency.
-- Added graceful degradation so individual model failures do not necessarily terminate the complete pipeline.
-- Built hybrid retrieval combining vector similarity, attributes and weighted ranking.
-- Exposed ML functionality through FastAPI/Django APIs.
+### 🧠 Image AI — Visual Search
+**Computer Vision · Embeddings · Vector Search**
 
-### Performance-oriented design
+YOLOv8 → MobileSAM → CLIP embedding pipeline for fabric/fashion catalogs. **~10ms similarity search** across 10K vectors via FAISS + pgvector.
 
-- FAISS-based search optimized for low-latency retrieval.
-- Durable SQL-filterable vectors through pgvector.
-- Cached/precomputed text embeddings for repeated classification tasks.
-- Async `202 Accepted` + polling workflow for long-running analysis.
+`PyTorch` `CLIP` `FAISS` `pgvector` `Celery`
 
-### Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Python` `PyTorch` `Transformers` `CLIP` `FAISS` `pgvector` `YOLOv8` `MobileSAM` `BLIP` `EasyOCR` `OpenCV` `FastAPI` `Django` `Redis` `Celery` `Docker`
+### 🧵 AI Fabric Catalog Intelligence
+**LLM Content Generation · Human-in-the-loop**
 
----
+Factory-pattern LLM system (DeepSeek, Gemma via OpenRouter) auto-generating SEO content for **10,000+ SKUs**. Cut manual content time by **80%**.
 
-## 🧵 3. Ambika CC — AI-Powered B2B Fabric Catalog
+`Django REST` `OpenRouter` `MySQL` `AWS S3`
 
-**Focus:** LLM Integration • AI Content Generation • Visual Search • Human-in-the-loop AI
+</td>
+<td width="50%" valign="top">
 
-Integrated AI capabilities into a Django-based B2B textile marketplace containing **10,000+ fabric SKUs**.
+### 🏘️ Townyz — Service Marketplace
+**RBAC · Location Matching · Real-Time Chat**
 
-### AI capabilities
+Multi-role marketplace covering **19,585+ pincodes across 36 states**, with live messaging, booking, and document verification.
 
-- LLM-powered SEO title generation.
-- LLM-powered meta-description generation.
-- Product-context-aware prompting using catalog attributes.
-- AI Q&A APIs.
-- Image analysis and 512-dimensional embeddings.
-- Visual similarity search.
-- AI-generated fabric tags.
-- Human review and approval before publishing AI-generated tags.
+`Django REST` `MySQL` `JWT` `MPTT`
 
-### Architecture
+</td>
+</tr>
+</table>
 
-```text
-Fabric Product / ERP Data
-        ↓
-   Context Builder
-        ↓
- OpenRouter LLM
-        ↓
-SEO Title / Description
-```
+<div align="center">
 
-```text
-Fabric Image
-    ↓
-AWS S3
-    ↓
-Async AI Job
-    ↓
-Image AI Engine
-    ├── Embedding
-    ├── Tags
-    ├── Caption
-    └── OCR
-    ↓
-Admin Review
-    ↓
-Visual Search / Catalog
-```
+**📱 [MYQRTracker](https://www.myqrtracker.com)** — Dynamic QR SaaS with real-time redirect updates & scan analytics · `Django` `Celery` `Redis` `AWS S3`
 
-### Engineering highlights
-
-- Designed a flexible LLM backend using abstraction and Factory Pattern concepts.
-- Integrated DeepSeek and Gemma through OpenRouter.
-- Implemented asynchronous image-processing jobs.
-- Built visual search using cosine similarity.
-- Implemented human-in-the-loop AI tag approval.
-- Added bulk image processing and E2E testing around the AI workflow.
-- Integrated AWS S3 and Django REST APIs.
-
-> **Terminology note:** The system uses context-augmented LLM generation and embedding-based visual retrieval. It should not be presented as a conventional LangChain/Chroma/Pinecone RAG implementation.
-
-### Stack
-
-`Python` `Django` `DRF` `MySQL` `AWS S3` `OpenRouter` `DeepSeek` `Gemma` `Embeddings` `Vector Search` `Celery` `Redis`
+</div>
 
 ---
 
-## 🛡️ 4. GST Detail Fetcher & Enterprise Compliance Registry
+<!-- ============================================================ -->
+## 🛠️ Other Professional Projects
 
-**Focus:** Browser Automation • Backend Architecture • API Monetization • Caching • Infrastructure
+| Project | What it does | Stack |
+|---|---|---|
+| **TSP (TopSellingProperty)** | Real estate marketplace — listings, agents, Razorpay payments | Django REST · PostgreSQL · Razorpay |
+| **VEcom Backend** | Multi-tenant e-commerce with per-company S3 isolation | Django REST · MySQL · AWS S3 |
+| **GeneQ** | Role-based healthcare platform — patients, doctors, labs | Django REST · JWT/OTP · Redis |
+| **GST Compliance Registry** | Automated GSTIN verification via browser automation | Django · Playwright · Docker |
+| **AI Invoice Pipeline** | LLM-based invoice extraction & validation | n8n · LLMs · Webhooks |
+| **AI MCQ Pipeline** | Structured MCQ extraction from educational PDFs | n8n · Google Drive API |
+| **Enterprise Product Sync** | Reliable batch product-data synchronization | Django · Automation |
+| **Techuzr** | Service automation with nested company hierarchies | Django REST · MPTT |
+| **Agency AI** | Marketing analytics dashboard for agencies | Django · MongoDB · Streamlit |
 
-A Django-based compliance retrieval and registry platform designed around automated browser interaction, cached records and API access.
+**Product engineering (frontend):** [Internlift](https://internlift.com) · [Bihar Cab Service](https://www.biharcabservice.in) — React, Vite, Tailwind, Framer Motion
 
-### Key engineering areas
-
-- Playwright-based browser automation.
-- Dedicated browser-worker architecture.
-- Dynamic CAPTCHA handling workflow.
-- MySQL-backed GST record caching.
-- API key/subscription architecture.
-- Request metering.
-- Rate limiting and subscription lifecycle management.
-- Custom middleware for API governance.
-- Docker Compose deployment architecture.
-- Nginx + Gunicorn production stack.
-
-### Architecture
-
-```text
-API Client
-   ↓
-Nginx
-   ↓
-Django Middleware
-   ↓
-GST Cache ── HIT ──→ Response
-   │
-   └── MISS
-        ↓
-Playwright Worker
-        ↓
-GST Portal
-        ↓
-Normalized Record
-        ↓
-MySQL Cache / Registry
-```
-
-### Stack
-
-`Python` `Django` `Playwright` `MySQL` `Docker` `Nginx` `Gunicorn` `REST APIs`
+**Earlier / academic:** Brain Tumor Detection (CNN) · WhatsApp Home Automation (IoT) · Play Store Review Sentiment Analysis
 
 ---
 
-## 📱 5. MYQRTracker — Dynamic QR Management SaaS
+<!-- ============================================================ -->
+## 📊 Engineering Metrics
 
-**Focus:** SaaS Architecture • REST APIs • Async Processing • Analytics
+<div align="center">
 
-A cloud-based dynamic QR platform allowing businesses to create, manage, update and analyze QR codes without reprinting the physical code.
+| 🚀 40+ REST APIs | ⚡ 30–45% perf gain via caching | 🧵 10,000+ SKUs |
+|:---:|:---:|:---:|
+| **📍 19,585+ pincodes** | **🔎 ~10ms vector search** | **📱 16+ QR types** |
 
-### Features
-
-- Dynamic QR destinations.
-- 16+ QR use cases.
-- Device-aware routing.
-- Branded landing pages.
-- Scan analytics.
-- Campaign/folder organization.
-- OTP authentication.
-- Subscription-ready architecture.
-
-### Backend work
-
-- Django REST Framework backend architecture.
-- QR creation and management APIs.
-- Dynamic redirect logic.
-- Device-aware routing.
-- Async scan analytics using Celery + Redis.
-- AWS S3 media storage.
-- MSG91 OTP integration.
-- Database/API optimization.
-
-### Stack
-
-`Python` `Django 5` `DRF` `MySQL` `Redis` `Celery` `AWS S3` `MSG91`
-
-**Live:** https://www.myqrtracker.com/
+</div>
 
 ---
 
-## 🏠 6. Townyz — Multi-Role Service Marketplace
+<!-- ============================================================ -->
+## 🧩 Engineering Principles
 
-**Focus:** Complex Backend Systems • RBAC • Location Services • Messaging • Multi-Tenant Architecture
-
-A service marketplace connecting customers with verified professionals across education, healthcare, technology, home services and wellness.
-
-### Key capabilities
-
-- Customers / Service Providers / Employees / Admins.
-- JWT authentication and RBAC.
-- India-wide location matching.
-- **19,585+ pincodes across 36 states**.
-- Service request workflows.
-- Booking and availability management.
-- Customer/provider messaging.
-- Document verification.
-- SMS and email notifications.
-- Admin analytics and management.
-
-### Engineering
-
-- Django + DRF backend.
-- MySQL query optimization.
-- AWS S3 media storage.
-- MSG91 integration.
-- Django MPTT for hierarchical structures.
-- Filtering, pagination and API versioning.
-- Structured logging and error handling.
-
-**Live:** https://www.townyz.com/
+> **Architecture before complexity** — simple, understandable systems first
+> **Deterministic control around probabilistic AI** — AI reasons, code enforces the rules
+> **Async where work is expensive** — long-running work never blocks the request cycle
+> **Design for failure** — retries, timeouts, fallbacks, structured logging by default
+> **Security by design** — auth & validation built in, not bolted on
 
 ---
 
-## 🏢 7. TSP — TopSellingProperty
+<!-- ============================================================ -->
+## 📈 GitHub Analytics
 
-**Focus:** Real Estate • Marketplace Backend • Payments • Authentication
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=react&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=satyamjha1011&theme=react&hide_border=true&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF&background=0d1117"/>
 
-A real estate marketplace supporting builders, agents, channel partners and customers across property discovery, listing and transaction workflows.
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjha1011&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00E8FF"/>
 
-### Engineering contributions
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-- JWT/custom-token authentication.
-- Property management APIs.
-- Agent enquiries and shortlisted properties.
-- Subscription management.
-- AWS S3 storage.
-- AWS SNS SMS/OTP.
-- Razorpay payment integration and webhook handling.
-- Query optimization with `select_related` / `prefetch_related`.
-- REST API architecture and unified response structures.
-
-**Live:** https://www.topsellingproperty.com/
+</div>
 
 ---
 
-## 🛒 8. VEcom — Multi-Tenant E-Commerce Backend
+<!-- ============================================================ -->
+## 🌱 Currently Exploring
 
-**Focus:** Multi-Tenancy • E-Commerce • Data Isolation • Order Processing
-
-A Django REST backend designed for multiple companies to operate independent online stores.
-
-### Key capabilities
-
-- Company-specific data isolation.
-- Company-specific AWS S3 storage.
-- Guest checkout.
-- Authenticated + anonymous carts.
-- Cart migration.
-- Product variants and inventory.
-- Order lifecycle management.
-- Address snapshots.
-- Coupons and discount rules.
-- Vendor commissions.
-- Wishlist.
-- Email notifications.
-
-### Stack
-
-`Python` `Django` `DRF` `MySQL` `AWS S3` `JWT` `MPTT` `Celery/Redis`
+`Agentic AI` `Multi-Agent Orchestration` `Local LLM/VLM Deployment` `RAG & Retrieval` `Vector Databases` `Event-Driven Architecture` `Production ML Infrastructure`
 
 ---
 
-## 🧬 9. GeneQ — Healthcare Management Platform
+<!-- ============================================================ -->
+## 🤝 Open To
 
-**Focus:** Healthcare Backend • RBAC • Authentication • Caching • Reporting
+**Backend Engineering** · **AI/ML Engineering** · **Generative AI Engineering** · **System Design** · **R&D / Technical Lead roles**
 
-A role-based healthcare platform connecting patients, doctors, laboratory technicians and collectors.
-
-### Engineering
-
-- JWT + OTP authentication.
-- Role-based workflows.
-- Appointment scheduling.
-- Sample tracking.
-- Real-time reporting.
-- Redis caching.
-- Automated data cleanup/monitoring.
-- Swagger/OpenAPI documentation.
-
-**Live:** https://www.gene-q.com/
+Especially interested in teams building AI-powered products, scalable backend platforms, and automation-heavy SaaS.
 
 ---
 
-## 🧩 10. Techuzr — Service Management Platform
+<!-- ============================================================ -->
+<div align="center">
 
-**Focus:** Backend Architecture • Hierarchical Data • Role Management
+### 👀 Profile Visitors
 
-- Built REST APIs for tickets, users, company hierarchies and service workflows.
-- Supported Admin, Engineer, BDE and Employee roles.
-- Used Django MPTT for nested company structures.
-- Implemented role-based dashboards.
-- Optimized MySQL models and queries.
+<img src="https://komarev.com/ghpvc/?username=satyamjha1011&label=Profile%20Views&color=00e8ff&style=for-the-badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=satyamjha1011.satyamjha1011&style=for-the-badge"/>
 
-**Live:** https://www.techuzr.com/
+<sub>Tracks total profile page views • updates automatically each visit</sub>
 
----
-
-## 📊 11. Agency AI — Marketing Analytics Platform
-
-**Focus:** Data Engineering • Analytics • Backend
-
-A Django-based platform for agencies to upload, validate and analyze client data.
-
-### Capabilities
-
-- CSV/Excel ingestion.
-- Validation and error handling.
-- Client and campaign management.
-- Lead tracking.
-- Client-wise dashboards.
-- Cost analysis.
-- Dynamic Streamlit visualizations.
-- Redis-backed architecture.
-
-### Stack
-
-`Django` `REST API` `MongoDB` `Docker` `Streamlit` `Pandas` `Redis` `HTML` `CSS` `JavaScript`
+</div>
 
 ---
 
-## 🧾 12. AI-Powered MCQ Processing & Question Intelligence Pipeline
-
-**Focus:** LLM Automation • Document Processing • Data Validation • Workflow Automation
-
-An automated workflow for converting unstructured educational documents into structured question data.
-
-### Workflow
-
-```text
-Google Drive
-    ↓
-File Detection
-    ↓
-Document Download
-    ↓
-Hash / Duplicate Check
-    ↓
-Document Parsing
-    ↓
-LLM Extraction
-    ↓
-Structured MCQ Data
-    ↓
-Validation
-    ↓
-Database / Spreadsheet
-    ↓
-Processed File Lifecycle
-```
-
-### Engineering areas
-
-- Google Drive-triggered processing.
-- File hashing and duplicate handling.
-- Document parsing.
-- LLM-based structured extraction.
-- Question/option validation.
-- Workflow state management.
-- Processed-file handling.
-- Automation through n8n.
-
-### Stack
-
-`n8n` `Google Drive` `LLMs` `Document Processing` `Structured JSON` `APIs` `Automation`
-
----
-
-## 🔄 13. Enterprise Product Synchronization Pipeline
-
-**Focus:** Enterprise Integration • Batch Processing • Reliability • Observability
-
-An automated synchronization workflow designed to process product data in controlled date-range batches.
-
-### Capabilities
-
-- Automatic date-range batching.
-- Controlled batch processing.
-- Job IDs and execution reports.
-- Added / updated / unchanged tracking.
-- Failure and retry handling.
-- Skipped-record tracking.
-- Failed-range recovery.
-- Success/failure metrics.
-- Execution monitoring.
-
-### Stack
-
-`Python` `Django` `REST APIs` `Database Integration` `Background Processing` `Automation`
-
----
-
-## 🌐 14. Internlift India Technology — Enterprise Web & Internship Platform
-
-**Focus:** Product Engineering • React • Performance • Responsive UI
-
-Designed and developed a responsive platform combining IT services, technology internship programs, application workflows and certificate verification.
-
-### Key capabilities
-
-- Service showcase.
-- Internship track exploration.
-- Application workflows.
-- Certificate verification.
-- Responsive frontend architecture.
-- Performance and accessibility optimization.
-- Modern animation and interaction patterns.
-
-### Stack
-
-`React` `Vite` `Tailwind CSS` `Framer Motion` `React Router`
-
-**Live:** https://www.internlift.com/
-
----
-
-## 🚕 15. Bihar Cab Service — Regional Mobility & Booking Platform
-
-**Focus:** Product Engineering • Booking UX • Mobile-first Frontend
-
-A regional cab-booking platform focused on local and outstation travel.
-
-### Capabilities
-
-- Pickup/drop selection.
-- Route and fare presentation.
-- Booking workflow.
-- WhatsApp-based booking/contact flow.
-- Responsive mobile-first UI.
-- Regional SEO-oriented pages.
-
----
-
-# 🧪 Earlier / Academic & Experimental Work
-
-These projects represent earlier learning and experimentation and are intentionally separated from professional production work.
-
-### 🧠 Brain Tumor Detection
-CNN / TensorFlow / Computer Vision
-
-### 📱 WhatsApp Home Automation
-Arduino / ESP8266 / Python / WhatsApp integration
-
-### 📊 Play Store Review Analysis
-Python / NLP / Data Analysis
-
----
-
-# 📈 Engineering Strengths
-
-I’m particularly interested in problems involving:
-
-```text
-Business Requirement
-        ↓
-System Design
-        ↓
-API / Data Architecture
-        ↓
-Async Processing
-        ↓
-AI / Automation Integration
-        ↓
-Security & Reliability
-        ↓
-Testing
-        ↓
-Deployment
-        ↓
-Monitoring & Improvement
-```
-
-### Areas I enjoy most
-
-- Designing backend architecture rather than only writing endpoints.
-- Breaking complex workflows into reliable services.
-- Making AI systems practical and controllable.
-- Combining deterministic software logic with probabilistic AI.
-- Optimizing database queries and API performance.
-- Building asynchronous and event-driven workflows.
-- Integrating third-party systems without making the core application fragile.
-- Turning repetitive business operations into automation.
-
----
-
-# 🧰 Technology Overview
-
-| Area | Technologies |
-|---|---|
-| Languages | Python, Java, JavaScript, HTML, CSS |
-| Backend | Django, DRF, FastAPI, Flask |
-| AI / ML | PyTorch, TensorFlow, Transformers, CLIP, YOLOv8, MobileSAM, BLIP, OCR |
-| GenAI | LLM APIs, OpenRouter, DeepSeek, Gemma, Ollama, AI Agents, LangGraph |
-| Vector Search | FAISS, pgvector, embeddings, cosine similarity |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis |
-| Async / Messaging | Celery, Redis Streams, Redis Pub/Sub |
-| Cloud | AWS S3, EC2, RDS, Lambda, API Gateway, SNS |
-| DevOps | Docker, Linux, Nginx, Gunicorn, Uvicorn |
-| Automation | n8n, Webhooks, API integrations |
-| Frontend | React, Vite, Tailwind CSS, Bootstrap, JavaScript |
-| Tools | Git, GitHub, Postman, Swagger/OpenAPI |
-
----
-
-# 📊 Selected Engineering Metrics
-
-These are metrics from projects/workflows where they were actually measured or documented:
-
-- **40+ REST APIs** designed across production work.
-- **30–45% API performance improvement** reported through Redis caching and database optimization.
-- **10,000+ fabric SKUs** supported in the Ambika CC AI/catalog workflow.
-- **19,585+ pincodes across 36 states** supported in Townyz location matching.
-- **512-dimensional embeddings** used for visual product retrieval.
-- **~10 ms similarity search** reported for a 10K-vector FAISS workload in the Image AI system.
-- **16+ QR types** supported by MYQRTracker.
-- **10+ WordPress web applications** delivered through Digiweby.
-- **20+ digital marketing clients** served through Digiweby.
-- Data operations delivered for **8 government hospitals** through Digiweby.
-
----
-
-# 🔐 Engineering Philosophy
-
-I don't believe that adding more technologies automatically makes a system better.
-
-My approach is:
-
-**Keep the architecture understandable.  
-Keep security explicit.  
-Keep data flows observable.  
-Move expensive work to asynchronous processing.  
-Measure before optimizing.  
-Use AI where it creates real value.  
-Keep deterministic controls around probabilistic systems.**
-
----
-
-# 🌱 Currently Exploring
-
-- Advanced Agentic AI architectures
-- Multi-agent orchestration
-- Local LLM / VLM deployment
-- RAG and retrieval systems
-- Vector databases and hybrid search
-- AI model customization / fine-tuning
-- Event-driven architectures
-- Microservices
-- Distributed task processing
-- AI-powered developer and business automation
-- Production ML infrastructure
-
----
-
-# 🤝 Open to Opportunities
-
-I’m interested in roles involving:
-
-- **Backend Engineering**
-- **Python / Django Engineering**
-- **AI/ML Engineering**
-- **Generative AI Engineering**
-- **AI Backend Engineering**
-- **R&D Engineering**
-- **Technical Lead / Project Lead**
-- **System Design & API Engineering**
-
-Especially interested in teams building **AI-powered products, scalable backend platforms, automation systems, SaaS products and data-intensive applications**.
-
----
-
-# 📫 Connect
-
-**LinkedIn:** https://www.linkedin.com/in/satyamjha1011/  
-**GitHub:** https://github.com/satyamjha1011
-
----
-
-## ⭐ If you find my work interesting
-
-Feel free to explore the repositories, open an issue, or connect with me on LinkedIn.
-
-I enjoy discussing **backend architecture, AI systems, system design, automation and practical applications of Generative AI.**
-
----
-
-<p align="center">
-  <b>Build systems. Solve real problems. Keep learning.</b>
-</p>
+<div align="center">
+<em>"Build systems that are not only intelligent — but reliable, explainable, and maintainable."</em>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E8FF,100:0F2027&height=100&section=footer"/>
+</div>
