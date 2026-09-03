@@ -10,6 +10,42 @@ I enjoy turning real business requirements into **secure, maintainable and produ
 
 ---
 
+## 📊 Profile at a Glance
+
+<p align="center">
+
+| 🚀 **7+ Years** | 🧩 **40+ APIs** | 🏭 **15+ Major Projects** | 🌐 **5+ Production Platforms** |
+|:---:|:---:|:---:|:---:|
+| Technology & product journey since 2019 | REST API engineering | Production + R&D + academic portfolio | Live / customer-facing systems |
+
+| 🤖 **10K+ SKUs** | 📍 **19,585+ Pincodes** | 🧵 **512-d Embeddings** | ⚡ **~10ms Search** |
+|:---:|:---:|:---:|:---:|
+| Fabric catalog AI workflow | Townyz location coverage | Visual product search | 10K-vector FAISS workload |
+
+| 🌐 **10+ Web Apps** | 📣 **20+ Marketing Clients** | 🏥 **8 Govt. Hospitals** | 📈 **30–45% Faster APIs** |
+|:---:|:---:|:---:|:---:|
+| Delivered through Digiweby | Digital marketing delivery | Data operations & reporting | Caching + DB optimization |
+
+</p>
+
+### 🧭 My Journey in Numbers
+
+```text
+2019 ─────────────── 2022 ───── 2024 ───────────── 2025 ───────────────► 2026
+  │                    │            │                   │
+  ▼                    ▼            ▼                   ▼
+Digiweby              MCA       Backend Engineering   R&D / Project Lead
+Founder + Tech Lead               TechYelp + Virves   AI/ML + Automation
+  │
+  ├── 10+ web applications
+  ├── 20+ digital marketing clients
+  └── 8 government hospitals
+```
+
+> **From building websites and business operations to designing backend platforms, AI/ML pipelines, automation systems and R&D architecture.**
+
+---
+
 ## 🧭 Career Journey
 
 ### 🚀 Founder & Technical Lead — Digiweby
@@ -646,6 +682,17 @@ Python / NLP / Data Analysis
 ---
 
 # 📈 Engineering Strengths
+
+### 📌 Career & Delivery Snapshot
+
+- **2019:** Started Digiweby and began owning end-to-end digital/product delivery.
+- **2022:** Closed Digiweby and moved to Bengaluru for MCA.
+- **2023:** Restarted professional software engineering with Technizz Infotech.
+- **2024–2025:** Built production backend systems at TechYelp.
+- **2025–Present:** Joined Virves Software Solutions and progressed from Software Engineer to **Project Lead — Research & Development**.
+- **40+ REST APIs** across professional backend work.
+- **30–45% API performance improvement** through caching and database optimization.
+- Experience across **healthcare, real estate, e-commerce, service marketplaces, SaaS, analytics and AI/ML**.
 
 I’m particularly interested in problems involving:
 
