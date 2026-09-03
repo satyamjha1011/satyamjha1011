@@ -1,3 +1,4 @@
+![Profile Views](https://github-view-counter.vercel.app/api?username=satyamjha1011&base=2765&label=Profile+Views&style=rounded&color=58a6ff)
 # 👋 Hi, I'm Satyam Jha
 
 ### Project Lead — R&D | Backend Engineering | AI/ML | Generative AI | System Design
