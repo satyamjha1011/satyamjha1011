@@ -23,8 +23,6 @@
 <!-- ============================================================ -->
 ## 👨‍💻 About Me
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/octocat/octocat.github.io/main/assets/images/dev.png" alt="dev" />
-
 - 🔭 Currently **Project Lead — Research & Development** @ Virves Software Solutions
 - 🐍 Backend engineer specializing in **Python, Django, DRF, FastAPI**
 - 🤖 Building with **LLMs, AI Agents, Computer Vision, Embeddings & Vector Search**
@@ -36,8 +34,6 @@
 - 📍 Based in **Bengaluru, India**
 
 **My path:** Founder (Digiweby) → Software Developer → Backend Engineer → AI/ML Engineer → R&D Project Lead
-
-<br clear="right"/>
 
 ---
 
@@ -191,6 +187,10 @@ Multi-role marketplace covering **19,585+ pincodes across 36 states**, with live
 
 <div align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=satyamjha1011&show_icons=true&theme=react&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=c9d1d9&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=satyamjha1011&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
 ---
